@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZPO13</string>
+    <string name="covid19Api">COVID19API</string>
+    <string name="add_data_country">Add data for country</string>
+    <string name="show_data">Show existing data</string>
+    <string name="show_stats">Show statistics</string>
+    <string name="add">Add</string>
+    <string name="country">Add country</string>
+    <string name="allCases">Sum of cases: </string>
+    <string name="healPercent">Highest cured percentage in: </string>
+    <string name="testPerMillion">Test per million (descending): </string>
+    <string name="noRecords">No data to show</string>
+</resources>
